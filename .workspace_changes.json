@@ -1,0 +1,317 @@
+{
+  "task_id": "a394cb73-071f-4955-9f84-495ea5c65d19",
+  "changes": {
+    "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174124.md": {
+      "relative_path": "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174124.md",
+      "name": "bili_report_钉钉A1_2026-03-13_174124.md",
+      "is_directory": false,
+      "category": "document",
+      "modified_at": "2026-03-13T09:41:24.097552400+00:00"
+    },
+    "scripts\\run_dingdingA1.bat": {
+      "relative_path": "scripts\\run_dingdingA1.bat",
+      "name": "run_dingdingA1.bat",
+      "is_directory": false,
+      "category": "binary",
+      "modified_at": "2026-03-13T09:44:15.604224600+00:00"
+    },
+    "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\video.mp4": {
+      "relative_path": "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\video.mp4",
+      "name": "video.mp4",
+      "is_directory": false,
+      "category": "binary",
+      "modified_at": "2026-03-13T09:54:55.885955+00:00"
+    },
+    "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_180607.md": {
+      "relative_path": "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_180607.md",
+      "name": "douyin_structure_20260313_180607.md",
+      "is_directory": false,
+      "category": "document",
+      "modified_at": "2026-03-13T10:06:08.099795500+00:00"
+    },
+    "scripts\\douyin\\structure_history.json": {
+      "relative_path": "scripts\\douyin\\structure_history.json",
+      "name": "structure_history.json",
+      "is_directory": false,
+      "category": "web",
+      "modified_at": "2026-03-13T10:06:08.099788400+00:00"
+    },
+    "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174237.json": {
+      "relative_path": "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174237.json",
+      "name": "bili_钉钉A1_2026-03-13_174237.json",
+      "is_directory": false,
+      "category": "web",
+      "modified_at": "2026-03-13T09:42:38.097079600+00:00"
+    },
+    "output": {
+      "relative_path": "output",
+      "name": "output",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T10:27:35.604138+00:00"
+    },
+    "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_175004.md": {
+      "relative_path": "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_175004.md",
+      "name": "douyin_structure_20260313_175004.md",
+      "is_directory": false,
+      "category": "document",
+      "modified_at": "2026-03-13T09:50:04.891776700+00:00"
+    },
+    "scripts\\douyin\\output\\钉钉A1": {
+      "relative_path": "scripts\\douyin\\output\\钉钉A1",
+      "name": "钉钉A1",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T09:54:37.379002300+00:00"
+    },
+    "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444": {
+      "relative_path": "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444",
+      "name": "video_1_7611505446758747444",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T09:55:40.383067200+00:00"
+    },
+    "scripts\\douyin\\output\\钉钉A1\\structure_reports": {
+      "relative_path": "scripts\\douyin\\output\\钉钉A1\\structure_reports",
+      "name": "structure_reports",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T10:06:08.099771+00:00"
+    },
+    "output\\钉钉A1 三平台爆款分析报告_完整版_2026-03-13.md": {
+      "relative_path": "output\\钉钉A1 三平台爆款分析报告_完整版_2026-03-13.md",
+      "name": "钉钉A1 三平台爆款分析报告_完整版_2026-03-13.md",
+      "is_directory": false,
+      "category": "document",
+      "modified_at": "2026-03-13T10:27:31.095617200+00:00"
+    },
+    "output\\钉钉A1_三平台爆款分析报告_完整版_2026-03-13.md": {
+      "relative_path": "output\\钉钉A1_三平台爆款分析报告_完整版_2026-03-13.md",
+      "name": "钉钉A1_三平台爆款分析报告_完整版_2026-03-13.md",
+      "is_directory": false,
+      "category": "document",
+      "modified_at": "2026-03-13T10:27:35.604130+00:00"
+    },
+    "scripts\\bilibili\\output\\json": {
+      "relative_path": "scripts\\bilibili\\output\\json",
+      "name": "json",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T09:42:38.097082800+00:00"
+    },
+    "scripts\\run.py": {
+      "relative_path": "scripts\\run.py",
+      "name": "run.py",
+      "is_directory": false,
+      "category": "code",
+      "modified_at": "2026-03-13T09:47:23.887966800+00:00"
+    },
+    "scripts": {
+      "relative_path": "scripts",
+      "name": "scripts",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T09:44:15.104865300+00:00"
+    },
+    "scripts\\douyin\\output": {
+      "relative_path": "scripts\\douyin\\output",
+      "name": "output",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T09:49:24.886970+00:00"
+    },
+    "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174237.md": {
+      "relative_path": "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174237.md",
+      "name": "bili_report_钉钉A1_2026-03-13_174237.md",
+      "is_directory": false,
+      "category": "document",
+      "modified_at": "2026-03-13T09:42:38.097061+00:00"
+    },
+    "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174124.json": {
+      "relative_path": "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174124.json",
+      "name": "bili_钉钉A1_2026-03-13_174124.json",
+      "is_directory": false,
+      "category": "web",
+      "modified_at": "2026-03-13T09:41:24.097568800+00:00"
+    },
+    "output\\多平台爆款分析报告_钉钉A1_2026-03-13.md": {
+      "relative_path": "output\\多平台爆款分析报告_钉钉A1_2026-03-13.md",
+      "name": "多平台爆款分析报告_钉钉A1_2026-03-13.md",
+      "is_directory": false,
+      "category": "document",
+      "modified_at": "2026-03-13T09:46:06.601627700+00:00"
+    },
+    "scripts\\bilibili\\output\\report": {
+      "relative_path": "scripts\\bilibili\\output\\report",
+      "name": "report",
+      "is_directory": true,
+      "category": "folder",
+      "modified_at": "2026-03-13T09:42:38.097095900+00:00"
+    },
+    "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\audio.wav": {
+      "relative_path": "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\audio.wav",
+      "name": "audio.wav",
+      "is_directory": false,
+      "category": "binary",
+      "modified_at": "2026-03-13T09:55:41.892504900+00:00"
+    }
+  },
+  "changes_by_task": {
+    "a394cb73-071f-4955-9f84-495ea5c65d19": {
+      "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174124.md": {
+        "relative_path": "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174124.md",
+        "name": "bili_report_钉钉A1_2026-03-13_174124.md",
+        "is_directory": false,
+        "category": "document",
+        "modified_at": "2026-03-13T09:41:24.097552400+00:00"
+      },
+      "scripts\\run_dingdingA1.bat": {
+        "relative_path": "scripts\\run_dingdingA1.bat",
+        "name": "run_dingdingA1.bat",
+        "is_directory": false,
+        "category": "binary",
+        "modified_at": "2026-03-13T09:44:15.604224600+00:00"
+      },
+      "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\video.mp4": {
+        "relative_path": "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\video.mp4",
+        "name": "video.mp4",
+        "is_directory": false,
+        "category": "binary",
+        "modified_at": "2026-03-13T09:54:55.885955+00:00"
+      },
+      "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_180607.md": {
+        "relative_path": "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_180607.md",
+        "name": "douyin_structure_20260313_180607.md",
+        "is_directory": false,
+        "category": "document",
+        "modified_at": "2026-03-13T10:06:08.099795500+00:00"
+      },
+      "scripts\\douyin\\structure_history.json": {
+        "relative_path": "scripts\\douyin\\structure_history.json",
+        "name": "structure_history.json",
+        "is_directory": false,
+        "category": "web",
+        "modified_at": "2026-03-13T10:06:08.099788400+00:00"
+      },
+      "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174237.json": {
+        "relative_path": "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174237.json",
+        "name": "bili_钉钉A1_2026-03-13_174237.json",
+        "is_directory": false,
+        "category": "web",
+        "modified_at": "2026-03-13T09:42:38.097079600+00:00"
+      },
+      "output": {
+        "relative_path": "output",
+        "name": "output",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T10:27:35.604138+00:00"
+      },
+      "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_175004.md": {
+        "relative_path": "scripts\\douyin\\output\\钉钉A1\\structure_reports\\douyin_structure_20260313_175004.md",
+        "name": "douyin_structure_20260313_175004.md",
+        "is_directory": false,
+        "category": "document",
+        "modified_at": "2026-03-13T09:50:04.891776700+00:00"
+      },
+      "scripts\\douyin\\output\\钉钉A1": {
+        "relative_path": "scripts\\douyin\\output\\钉钉A1",
+        "name": "钉钉A1",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T09:54:37.379002300+00:00"
+      },
+      "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444": {
+        "relative_path": "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444",
+        "name": "video_1_7611505446758747444",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T09:55:40.383067200+00:00"
+      },
+      "scripts\\douyin\\output\\钉钉A1\\structure_reports": {
+        "relative_path": "scripts\\douyin\\output\\钉钉A1\\structure_reports",
+        "name": "structure_reports",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T10:06:08.099771+00:00"
+      },
+      "output\\钉钉A1 三平台爆款分析报告_完整版_2026-03-13.md": {
+        "relative_path": "output\\钉钉A1 三平台爆款分析报告_完整版_2026-03-13.md",
+        "name": "钉钉A1 三平台爆款分析报告_完整版_2026-03-13.md",
+        "is_directory": false,
+        "category": "document",
+        "modified_at": "2026-03-13T10:27:31.095617200+00:00"
+      },
+      "output\\钉钉A1_三平台爆款分析报告_完整版_2026-03-13.md": {
+        "relative_path": "output\\钉钉A1_三平台爆款分析报告_完整版_2026-03-13.md",
+        "name": "钉钉A1_三平台爆款分析报告_完整版_2026-03-13.md",
+        "is_directory": false,
+        "category": "document",
+        "modified_at": "2026-03-13T10:27:35.604130+00:00"
+      },
+      "scripts\\bilibili\\output\\json": {
+        "relative_path": "scripts\\bilibili\\output\\json",
+        "name": "json",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T09:42:38.097082800+00:00"
+      },
+      "scripts\\run.py": {
+        "relative_path": "scripts\\run.py",
+        "name": "run.py",
+        "is_directory": false,
+        "category": "code",
+        "modified_at": "2026-03-13T09:47:23.887966800+00:00"
+      },
+      "scripts": {
+        "relative_path": "scripts",
+        "name": "scripts",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T09:44:15.104865300+00:00"
+      },
+      "scripts\\douyin\\output": {
+        "relative_path": "scripts\\douyin\\output",
+        "name": "output",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T09:49:24.886970+00:00"
+      },
+      "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174237.md": {
+        "relative_path": "scripts\\bilibili\\output\\report\\bili_report_钉钉A1_2026-03-13_174237.md",
+        "name": "bili_report_钉钉A1_2026-03-13_174237.md",
+        "is_directory": false,
+        "category": "document",
+        "modified_at": "2026-03-13T09:42:38.097061+00:00"
+      },
+      "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174124.json": {
+        "relative_path": "scripts\\bilibili\\output\\json\\bili_钉钉A1_2026-03-13_174124.json",
+        "name": "bili_钉钉A1_2026-03-13_174124.json",
+        "is_directory": false,
+        "category": "web",
+        "modified_at": "2026-03-13T09:41:24.097568800+00:00"
+      },
+      "output\\多平台爆款分析报告_钉钉A1_2026-03-13.md": {
+        "relative_path": "output\\多平台爆款分析报告_钉钉A1_2026-03-13.md",
+        "name": "多平台爆款分析报告_钉钉A1_2026-03-13.md",
+        "is_directory": false,
+        "category": "document",
+        "modified_at": "2026-03-13T09:46:06.601627700+00:00"
+      },
+      "scripts\\bilibili\\output\\report": {
+        "relative_path": "scripts\\bilibili\\output\\report",
+        "name": "report",
+        "is_directory": true,
+        "category": "folder",
+        "modified_at": "2026-03-13T09:42:38.097095900+00:00"
+      },
+      "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\audio.wav": {
+        "relative_path": "scripts\\douyin\\output\\钉钉A1\\video_1_7611505446758747444\\audio.wav",
+        "name": "audio.wav",
+        "is_directory": false,
+        "category": "binary",
+        "modified_at": "2026-03-13T09:55:41.892504900+00:00"
+      }
+    }
+  }
+}
