@@ -1,0 +1,24 @@
+{
+  "search_page": {
+    "timestamp": "2026-03-13T18:06:07.375155",
+    "url": "https://www.douyin.com/search/钉钉A1?type=video",
+    "page_title": "",
+    "page_size": 714882,
+    "selectors": {
+      "search_video_list": null,
+      "video_card": null,
+      "video_title": null,
+      "video_author": null,
+      "video_like_count": null
+    },
+    "features": {
+      "has_ssr_data": true,
+      "ssr_fingerprint": -7387392282759159031,
+      "has_video_e2e": false,
+      "has_interaction_e2e": false
+    },
+    "elements": {}
+  },
+  "video_page": null,
+  "last_update": "2026-03-13T18:06:07.850403"
+}
